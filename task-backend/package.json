@@ -1,0 +1,24 @@
+{
+  "name": "task-backend",
+  "version": "1.0.0",
+  "description": "backend for task made in expressJS,NodeJS and using MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "some nodemon command i think pointing to server.js"
+  },
+  "keywords": [
+    "backend",
+    "nodejs",
+    "expressjs",
+    "mongodb",
+    "mern"
+  ],
+  "author": "Owais Quadri",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  }
+}
